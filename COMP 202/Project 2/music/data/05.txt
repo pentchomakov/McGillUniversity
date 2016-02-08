@@ -1,0 +1,6 @@
+bpm = 280
+name = simple_poly
+instrument = 0
+track = <10c
+track = <10g
+track = cdefed2c2g

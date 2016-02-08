@@ -1,0 +1,28 @@
+<manager id="1">
+  <registrations id="2">
+    <registration id="3">
+      <id>1</id>
+      <participant id="4">
+        <name>Jennifer</name>
+      </participant>
+      <evnet id="5">
+        <name>Concert</name>
+        <eventDate id="6">2016-01-06</eventDate>
+        <startTime id="7">17:00:00</startTime>
+        <endTime id="8">18:17:00</endTime>
+      </evnet>
+    </registration>
+  </registrations>
+  <participants id="9">
+    <participant id="10">
+      <name>Oscar</name>
+    </participant>
+    <participant reference="4"/>
+    <participant id="11">
+      <name>Martin</name>
+    </participant>
+  </participants>
+  <events id="12">
+    <event reference="5"/>
+  </events>
+</manager>

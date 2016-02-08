@@ -1,0 +1,5 @@
+bpm = 250
+name = canada
+soundbank = ./data/soundbanks/Famicom.sf2
+instrument = 1
+track = 4E3GG4C2P2D2E2F2G2A6D

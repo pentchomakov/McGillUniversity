@@ -1,0 +1,6 @@
+bpm = 240
+name = ricercar2
+instrument = 0
+track = >4C4D#4G4G#<6B>2G4F#4F4E6D#2D2C#2C<2BAG>2C2F4D#4D6C
+instrument = 0
+track = 4C4G4D#2F2C<GA2B>4C2C#2D6D#4E4F4F#2G<4B>4G#4G4D#6C

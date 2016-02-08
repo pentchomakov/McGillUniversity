@@ -1,0 +1,27 @@
+Pentcho Tchomakov 260632861
+q1a)
+Permission denied
+cdmod 777 answer.txt
+cat answer.txt
+script $testvar1
+cat answer.txt
+exit
+echo $testvar1 >> A1_written_solutions.txt
+
+q1b)
+This file contains a message with the answer to part 1. The message is: "Look what I learned in 206!" Congratulations if you read this.
+
+q2a)
+UID is the Unique Identification Number used to identify users on an operating system
+PID is the Process Identification Number
+PPID is the PID of the parent process which opened the given process
+PRI is the Priority of the process
+NI is a nice value
+VSZ is the usage of the virtual memory
+RSS is the real memory usage
+WCHAN is te memory address of the event the process is waiting for
+STAT is the process status code
+TTY is the terminal associated with the process
+TIME is the Total CPU usage
+COMMAND is the name of the process, including arguments if any
+

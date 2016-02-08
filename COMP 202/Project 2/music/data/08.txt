@@ -1,0 +1,10 @@
+bpm = 280
+name = phil_collins
+instrument = 0
+track = 2p16c<7a8a>7c8c8d
+instrument = 0
+track = 2p16e7d8c7e8f8g
+instrument = 0
+track = 2p16g7f8e7g8a8b
+instrument = 0
+track = >cc2cc2c2c2c4p<2b>c2dc2c<2b>c<2a>4pc2cc2c2c2f2e2c2d8d

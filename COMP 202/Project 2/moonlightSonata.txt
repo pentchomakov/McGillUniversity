@@ -1,0 +1,6 @@
+bpm = 600
+name = Beethoven's Moonlight Sonata
+instrument = 0
+track = <3G#3C#3E 3G#3C#3E 3G#3C#3E 3G#3C#3E 3A3C#3E 3A3C#3E 3A3D3F# 3A3D3F# 3G#3C3F# 3G#3C#3E 3G#3C#3D# 3F#3C3D# 3E3G#3C# 3G#3C#3E 3G#3C3E 3G#3C#3E
+instrument = 3
+track = <5C#31P5G#31P5A13P5F#13P5G#13P5G#13P3C#3G#3C#

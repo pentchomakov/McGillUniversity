@@ -1,0 +1,5 @@
+bpm = 240
+name = ricercar
+soundbank = ./data/soundbanks/nes.sf2
+instrument = 32
+track = 4C4D#4G4G#<6B>2G4F#4F4E6D#2D2C#2C<2BAG>2C2F4D#4D6C
